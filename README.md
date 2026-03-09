@@ -47,3 +47,4 @@ tic-tac-toe/
 ├── tic_tac_toe.py   # main game code
 └── README.md
 ```
+License MIT
