@@ -49,3 +49,4 @@ tic-tac-toe/
 ```
 ## License 
 MIT
+Copyright © 2026 David Veryutin
